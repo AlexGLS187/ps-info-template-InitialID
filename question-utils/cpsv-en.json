@@ -1,0 +1,107 @@
+{
+    "PublicService": {
+        "name": "Initial issuance of identity card",
+        "evidence": [
+            {
+                "id": 1,
+                "evs": [
+                    {
+                        "id": "ev0001",
+                        "type": "Evidence",
+                        "name": "Identification document",
+                        "description": "Application by the interested party or their guardian or another authorized person, provided by the offices of the competent regional services or KEP (Citizens’ Service Centers)."
+                    },
+                    {
+                        "id": "ev0002",
+                        "type": "Evidence",
+                        "name": "Application - Solemn Declaration for the automatic retrieval of the applicant’s information.",
+                        "description": "Application - Solemn Declaration for the automatic retrieval of the applicant's information from the Citizens' Registry Information System of the Ministry of Interior, for the purpose of retrieving birth certificate information."
+                    },
+                    {
+                        "id": "ev0003",
+                        "type": "Evidence",
+                        "name": "One (1) witness to verify the applicant's personal details.",
+                        "description": "A witness may be any adult with a valid identification document. In the case of a minor, verification is done by one parent or by the person who has custody or guardianship."
+                    },
+                    {
+                        "id": "ev0004",
+                        "type": "Evidence",
+                        "name": "One (1) recent digital photograph.",
+                        "description": "In accordance with ICAO-9303 specifications."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "evs": [
+                    {
+                        "id": "ev0009",
+                        "type": "Evidence",
+                        "name": "Travel or other document issued by a domestic or foreign Authority, showing previous transliteration of the applicant’s personal data (surname, name, father's and mother's name) in Latin characters, differing from the ELOT 743 standard.",
+                        "description": "Travel or other document issued by a domestic or foreign Authority, showing previous transliteration of the applicant’s personal data (surname, name, father's and mother's name) in Latin characters, if the applicant wishes those details to be recorded as such, differing from the ELOT 743 standard."
+                    },
+                    {
+                        "id": "ev0010",
+                        "type": "Evidence",
+                        "name": "Solemn Declaration for the transliteration of name data in Latin characters, deviating from the ELOT 743 standard.",
+                        "description": "Solemn Declaration by which the applicant declares that they wish for their name data to be recorded in Latin characters, deviating from the ELOT 743 standard."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "evs": [
+                    {
+                        "id": "ev0005",
+                        "type": "Evidence",
+                        "name": "Certificate from a medical institution indicating blood type and RHESUS.",
+                        "description": "Required if the inclusion of the blood type is desired."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "evs": [
+                    {
+                        "id": "ev0006",
+                        "type": "Evidence",
+                        "name": "Certificate from a health laboratory indicating blood type and RHESUS.",
+                        "description": "Required if the inclusion of the blood type is desired."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "evs": [
+                    {
+                        "id": "ev0007",
+                        "type": "Evidence",
+                        "name": "Blood donor card indicating blood type and RHESUS.",
+                        "description": "Required if the inclusion of the blood type is desired."
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "evs": [
+                    {
+                        "id": "ev0008",
+                        "type": "Evidence",
+                        "name": "Medical certificate regarding the tattoo",
+                        "description": "Medical certificate, if the applicant has a visible facial tattoo indicating its permanent nature."
+                    }
+                ]
+            }
+        ],
+        "criterion_requirments": [
+            {
+                "id": "cr0001",
+                "name": "Greek nationality"
+            },
+            {
+                "id": "cr0002",
+                "name": "Completion of the twelfth year of age"
+            }
+        ]
+    }
+} 

@@ -1,0 +1,36 @@
+[
+    {
+        "id": 0,
+        "question": "Are you a Greek citizen and have you completed your 12th year of age?",
+        "options":["Yes","No"]
+    },
+    {
+        "id": 1,
+        "question": "Is this the first time you are issuing an identity card?",
+        "options":["Yes","No"]
+    },
+    {
+        "id": 2,
+        "question": "Please state your preference below",
+        "options":["Transliteration of my personal information in Latin characters according to ELOT 743.",
+                   "I possess a travel or other document issued by a domestic or foreign authority showing a previous transliteration of my personal information (surname, name, father's name, and mother's name) in Latin characters, and I wish those details to be recorded as such, differing from the ELOT 743 standard."]
+    },
+    {
+        "id": 3,
+        "question": "Do you wish your blood type to be stated on your ID card? If yes, what type of document will you submit for the inclusion of your blood type?",
+        "options":["No, I do not wish my blood type to be included on my ID.",
+                   "Certificate from a medical institution.",
+                   "Certificate from a health laboratory.",
+                   "Blood donor card, where the blood type and RHESUS are stated."]
+    },
+    {
+        "id": 4,
+        "question": "Do you have a visible tattoo on your face that is of a permanent nature?",
+        "options":["Yes, I have a permanent tattoo on a visible part of my face","No, I do not have a permanent tattoo on my face"]
+    },
+    {
+        "id": 5,
+        "question": "Can you appear in person at the police authority on the date of the appointment?",
+        "options":["Yes, I will appear in person","No, I am unable to appear in person at the police authority"]
+    }
+]
