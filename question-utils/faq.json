@@ -2,7 +2,7 @@
     {
         "id": 0,
         "question": "Πόσο κοστίζει η αρχική έκδοση δελτίου ταυτότητας;",
-        "answer": "10.5 € ( e-Παράβολο αξίας 10 € και Ένσημο ΕΛ.ΑΣ. αξίας 0.5 €). "
+        "answer": "e-Παράβολο αξίας 10 €, κωδικός παραβόλου 4485. Εαν ισχύει πολυτεκνία αξία παραβόλου 5 €, κωδικός παραβόλου 4486. Ένσημο ΕΛ.ΑΣ. αξίας 0.5 € πληρωτέο στο γραφείο ταυτοτήτων ή έκδοση e-παραβόλου αξίας 0.5 €, κωδικός παραβόλου 2043."
     },
     {
         "id": 1,
@@ -17,11 +17,11 @@
     {
         "id": 3,
         "question": "Ποια είναι η διαδικασία αντικατάστασης δελτίου ταυτότητας λόγω μεταβολής στοιχείων του κατόχου;",
-        "answer": "Δείτε την διαδικασία <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%BC%CE%B5%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%AE%CF%82_%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CF%89%CE%BD_%CF%84%CE%BF%CF%85_%CE%BA%CE%B1%CF%84%CF%8C%CF%87%CE%BF%CF%85\">908189</a> Αντικατάσταση δελτίου ταυτότητας λόγω μεταβολής στοιχείων του κατόχου>>."    
+        "answer": "Δείτε την διαδικασία <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%BC%CE%B5%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%AE%CF%82_%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CF%89%CE%BD_%CF%84%CE%BF%CF%85_%CE%BA%CE%B1%CF%84%CF%8C%CF%87%CE%BF%CF%85\">908189</a> Αντικατάσταση δελτίου ταυτότητας λόγω μεταβολής στοιχείων του κατόχου."    
     },
     {
         "id": 4,
-        "question": "Ποια είναι η διαδικασία αντικατάστασης δελτίου ταυτότητας λόγω παρέλευεσης δεκαετίας;",
+        "question": "Ποια είναι η διαδικασία αντικατάστασης δελτίου ταυτότητας λόγω παρέλευσης δεκαετίας;",
         "answer": "Δείτε την διαδικασία <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CF%80%CE%B1%CF%81%CE%AD%CE%BB%CE%B5%CF%85%CF%83%CE%B7%CF%82_%CE%B4%CE%B5%CE%BA%CE%B1%CE%B5%CF%84%CE%AF%CE%B1%CF%82\">656804</a> Αντικατάσταση δελτίου ταυτότητας λόγω παρέλευσης δεκαετίας."    
     },
     {

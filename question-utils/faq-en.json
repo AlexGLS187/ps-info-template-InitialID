@@ -2,41 +2,41 @@
     {
         "id": 0,
         "question": "How much does the initial issuance of an identity card cost?",
-        "answer": "10.5 € (e-Paravolo worth 10 € and Hellenic Police Stamp worth 0.5 €)."
+        "answer": "e-Paravolo worth €10, fee code 4485. If large family status applies, fee is €5, fee code 4486. Hellenic Police stamp worth €0.5 payable at the identity office or issuance of e-Paravolo worth €0.5, fee code 2043."
     },
     {
         "id": 1,
         "question": "What is the procedure for replacing an identity card due to loss?",
-        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%B1%CF%80%CF%8E%CE%BB%CE%B5%CE%B9%CE%B1%CF%82\">880224</a> Replacement of identity card due to loss."
+        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%B1%CF%80%CF%8E%CE%BB%CE%B5%CE%B9%CE%B1%CF%82\">880224</a> Replacement of identity card due to loss."    
     },
     {
         "id": 2,
         "question": "What is the procedure for replacing an identity card due to theft?",
-        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%BA%CE%BB%CE%BF%CF%80%CE%AE%CF%82\">987748</a> Replacement of identity card due to theft."
+        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%BA%CE%BB%CE%BF%CF%80%CE%AE%CF%82\">987748</a> Replacement of identity card due to theft."    
     },
     {
         "id": 3,
-        "question": "What is the procedure for replacing an identity card due to changes in the holder's personal details?",
-        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%BC%CE%B5%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%AE%CF%82_%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CF%89%CE%BD_%CF%84%CE%BF%CF%85_%CE%BA%CE%B1%CF%84%CF%8C%CF%87%CE%BF%CF%85\">908189</a> Replacement of identity card due to changes in the holder's personal details."
+        "question": "What is the procedure for replacing an identity card due to change of holder's personal information?",
+        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CE%BC%CE%B5%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%AE%CF%82_%CF%83%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CF%89%CE%BD_%CF%84%CE%BF%CF%85_%CE%BA%CE%B1%CF%84%CF%8C%CF%87%CE%BF%CF%85\">908189</a> Replacement of identity card due to change of holder's personal information."    
     },
     {
         "id": 4,
-        "question": "What is the procedure for replacing an identity card due to a ten-year expiration?",
-        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CF%80%CE%B1%CF%81%CE%AD%CE%BB%CE%B5%CF%85%CF%83%CE%B7%CF%82_%CE%B4%CE%B5%CE%BA%CE%B1%CE%B5%CF%84%CE%AF%CE%B1%CF%82\">656804</a> Replacement of identity card due to a ten-year expiration."
+        "question": "What is the procedure for replacing an identity card due to the passing of ten years?",
+        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CF%80%CE%B1%CF%81%CE%AD%CE%BB%CE%B5%CF%85%CF%83%CE%B7%CF%82_%CE%B4%CE%B5%CE%BA%CE%B1%CE%B5%CF%84%CE%AF%CE%B1%CF%82\">656804</a> Replacement of identity card due to the passing of ten years."    
     },
     {
         "id": 5,
         "question": "What is the procedure for replacing a damaged identity card?",
-        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CF%86%CE%B8%CE%BF%CF%81%CE%AC%CF%82\">337582</a> Replacement of identity card due to damage."
+        "answer": "See the procedure <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%91%CE%BD%CF%84%CE%B9%CE%BA%CE%B1%CF%84%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%BB%CF%8C%CE%B3%CF%89_%CF%86%CE%B8%CE%BF%CF%81%CE%AC%CF%82\">337582</a> Replacement of identity card due to damage."    
     },
     {
         "id": 6,
         "question": "Are there any remote service points?",
-        "answer": "Not provided digitally."
+        "answer": "Not available digitally."  
     },
     {
         "id": 7,
-        "question": "Can I book an appointment for myself or my minor child?",
-        "answer": "Yes, see how at <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A1%CE%B1%CE%BD%CF%84%CE%B5%CE%B2%CE%BF%CF%8D_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%95%CE%BB%CE%BB%CE%AE%CE%BD%CF%89%CE%BD_%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD\">mitos</a>"
+        "question": "Can I book an appointment for myself or my underage child?",
+        "answer": "Yes, see how at <a href=\"https://mitos.gov.gr/index.php/%CE%94%CE%94:%CE%A1%CE%B1%CE%BD%CF%84%CE%B5%CE%B2%CE%BF%CF%8D_%CE%B3%CE%B9%CE%B1_%CF%84%CE%B7%CE%BD_%CE%AD%CE%BA%CE%B4%CE%BF%CF%83%CE%B7_%CE%B4%CE%B5%CE%BB%CF%84%CE%AF%CE%BF%CF%85_%CF%84%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82_%CE%95%CE%BB%CE%BB%CE%AE%CE%BD%CF%89%CE%BD_%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CF%8E%CE%BD\">mitos</a>"   
     }
 ]

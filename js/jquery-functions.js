@@ -344,8 +344,8 @@ $("document").ready(function () {
     const resultWrapper = document.createElement("div");
     const titleText =
       currentLanguage === "greek"
-        ? "Τελειώσατε!"
-        : "You are done!";
+        ? "Τελειώσατε! Πριν μεταβείτε στο ραντεβού στην Αστυνομία, καλό είναι να βεβαιωθείτε ότι τα στοιχεία σας είναι σωστά καταχωρημένα στο Μητρώο Πολιτών."
+        : "You’re all set! Before attending your appointment at the Police Department, it is recommended to ensure that your personal information is correctly registered in the Civil Registry.";
     resultWrapper.innerHTML = `<h1 class='answer'>${titleText}</h1>`;
     resultWrapper.setAttribute("id", "resultWrapper");
     $(".question-container").html(resultWrapper);
